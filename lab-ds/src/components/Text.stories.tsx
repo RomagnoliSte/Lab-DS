@@ -45,6 +45,11 @@ export const CustomComponent: StoryObj<TextProps> = {
             table:{
                 disable: true,
             }
+        },
+        asChild:{
+            table:{
+                disable: true,
+            }
         }
     }
 }
